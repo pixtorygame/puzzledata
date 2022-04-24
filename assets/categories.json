@@ -5,15 +5,15 @@
       "image": "animals",
       "count": 100,
       "desc": {
-        "en": "U2FsdGVkX18kKF/nJoJ48F5T80cS7Aw7uhQQj38gPhY=",
-        "tr": "U2FsdGVkX1+5XLl3TwLToZz3XK62i1BiGAkDpsQsgvw="
+        "en": "U2FsdGVkX18tD8v3tOFI1vCJnlkvAnxI1Ve7oYtNOQAezas4UeqBY49Ak3BwngEgdphm8f7tMKRVi0rsJ56BkA==",
+        "tr": "U2FsdGVkX1/E0py6eDsaEOrMKbDnJ2WdISr6c+PJfQzoszzmpvv75K5ry/0UXRwvSSjuQQeE+UlR6uqFusz5yw=="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
         "tr": "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
       },
       "published": true,
-      "licensed": false
+      "licensed": true
     }
   },
   {
@@ -22,15 +22,15 @@
       "image": "musicalinstruments",
       "count": 40,
       "desc": {
-        "en": "U2FsdGVkX18HCDPiVObsOX7syYDhRH9C/FFvHfBo52s0N07Q7g6A4oGmGPTdBiR3",
-        "tr": "U2FsdGVkX1+REO+FB0/VhYfCzu/Wp30NMjikPo0EjfoKMyNKaHtF5hqtunQWS/BB"
+        "en": "U2FsdGVkX1/mQC61mIkWDQeNgQO5lDLffmyhLfZ1xeRpZyh2KyQ1uwFON5FJ+QQdEtbyH/BY/CiArJK3zDN/xhzdNxs4vMOkzqsuadd+IIHAMiRnPQ0l+G7luT91eUYT",
+        "tr": "U2FsdGVkX19NZEBnY+f9bPi50w683q70OO0nLUYbpw/RbWe6pjsyqbJMkKUSlWt7ebTaY/kw5ylcpzriF7eirUmZjplAJSuSCDRnPLK6aYRdMy2qrGaMAH89982T+lsG"
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
         "tr": "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
       },
       "published": true,
-      "licensed": false
+      "licensed": true
     }
   },
   {
@@ -39,8 +39,8 @@
       "image": "sports",
       "count": 50,
       "desc": {
-        "en": "U2FsdGVkX18oie19Fyg+cXDBt039URnlnSVEFeUFcS4=",
-        "tr": "U2FsdGVkX18GAvBzdwGQzKcdPcuUOvRHBD0o6tIBqrU="
+        "en": "U2FsdGVkX1+iGAcZ+HUec98dp75WdJfZAy4EKKKpMW2oiXs8CeVK0ikGL7F3yBE1j0RQabv22T/qDhVRLQ/BvQ==",
+        "tr": "U2FsdGVkX18VvmafH0UX5T2KLF/2ee7cStve7+WrYjtsqXi5jbHfa2O8b4Ut24Op+c2OcJG0/JLmkENPj/Vj/w=="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
@@ -56,8 +56,8 @@
       "image": "vehicles",
       "count": 40,
       "desc": {
-        "en": "U2FsdGVkX1979kgVcGq++TsI47K5MjQZzHPFUlcbU9M=",
-        "tr": "U2FsdGVkX1+UrZs+jnkM1Z+WqVm44GAQLibqXNs7FWc="
+        "en": "U2FsdGVkX1/k2l3cJSr/vQrtwfVOeelrbmWI4uFx4eLBaOc0DAs2XeS8MraqpDZY7ReqOLOTD3rSJeNYyZBCZg==",
+        "tr": "U2FsdGVkX1+lZFjJ6TBg0urrpglBmLUGlTErKHx9fEkI99yz8hFd4ZaJ2kqYVCj5GUsU5dXT4vOKo01lDjhU5g=="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
